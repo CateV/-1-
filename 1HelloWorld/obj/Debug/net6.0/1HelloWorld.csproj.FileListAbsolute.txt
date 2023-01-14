@@ -1,0 +1,15 @@
+D:\GeekBrains\4. Знакомство с языками программирования\1.С#\Моя первая прога\1HelloWorld\bin\Debug\net6.0\1HelloWorld.exe
+D:\GeekBrains\4. Знакомство с языками программирования\1.С#\Моя первая прога\1HelloWorld\bin\Debug\net6.0\1HelloWorld.deps.json
+D:\GeekBrains\4. Знакомство с языками программирования\1.С#\Моя первая прога\1HelloWorld\bin\Debug\net6.0\1HelloWorld.runtimeconfig.json
+D:\GeekBrains\4. Знакомство с языками программирования\1.С#\Моя первая прога\1HelloWorld\bin\Debug\net6.0\1HelloWorld.dll
+D:\GeekBrains\4. Знакомство с языками программирования\1.С#\Моя первая прога\1HelloWorld\bin\Debug\net6.0\1HelloWorld.pdb
+D:\GeekBrains\4. Знакомство с языками программирования\1.С#\Моя первая прога\1HelloWorld\obj\Debug\net6.0\1HelloWorld.csproj.AssemblyReference.cache
+D:\GeekBrains\4. Знакомство с языками программирования\1.С#\Моя первая прога\1HelloWorld\obj\Debug\net6.0\1HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\4. Знакомство с языками программирования\1.С#\Моя первая прога\1HelloWorld\obj\Debug\net6.0\1HelloWorld.AssemblyInfoInputs.cache
+D:\GeekBrains\4. Знакомство с языками программирования\1.С#\Моя первая прога\1HelloWorld\obj\Debug\net6.0\1HelloWorld.AssemblyInfo.cs
+D:\GeekBrains\4. Знакомство с языками программирования\1.С#\Моя первая прога\1HelloWorld\obj\Debug\net6.0\1HelloWorld.csproj.CoreCompileInputs.cache
+D:\GeekBrains\4. Знакомство с языками программирования\1.С#\Моя первая прога\1HelloWorld\obj\Debug\net6.0\1HelloWorld.dll
+D:\GeekBrains\4. Знакомство с языками программирования\1.С#\Моя первая прога\1HelloWorld\obj\Debug\net6.0\refint\1HelloWorld.dll
+D:\GeekBrains\4. Знакомство с языками программирования\1.С#\Моя первая прога\1HelloWorld\obj\Debug\net6.0\1HelloWorld.pdb
+D:\GeekBrains\4. Знакомство с языками программирования\1.С#\Моя первая прога\1HelloWorld\obj\Debug\net6.0\1HelloWorld.genruntimeconfig.cache
+D:\GeekBrains\4. Знакомство с языками программирования\1.С#\Моя первая прога\1HelloWorld\obj\Debug\net6.0\ref\1HelloWorld.dll
