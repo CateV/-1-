@@ -8,9 +8,10 @@ while (i<n)
   if (weight(i) < weight(i+1))
   {
    max = weight(i+1);
-   i++;
-  }  
-}
+    }
+     i++;
+    }
+
 Console.WriteLine(max);
 
 Console.WriteLine("Hello, World!");
