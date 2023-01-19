@@ -4,6 +4,7 @@
 782 -> 2
 918 -> 8 */
 
+
 int InputInt(string message)
 {
 Console.WriteLine("Введите трёхзначное число");
