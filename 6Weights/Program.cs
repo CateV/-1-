@@ -1,13 +1,13 @@
 ﻿// See https://aka.ms/new-console-template for more information
-int weight = (5,10,7,1,3);
+int[] weight = {5,10,7,1,13};
 int n = 5;
 int i = 0;
-int max = weight(i);
+int max = weight[i];
 while (i<n)
 {
-  if (weight(i) < weight(i+1))
+  if (weight[i]>max)
   {
-   max = weight(i+1);
+   max = weight[i+1];
     }
      i++;
     }
