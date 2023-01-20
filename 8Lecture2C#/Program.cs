@@ -1,20 +1,26 @@
 ﻿// See https://aka.ms/new-console-template for more information
+int Max(int arg1, int arg2, int arg3)
+{
+    int result = arg1;
+    if (arg2 > result) result = arg2;
+    if (arg3 > result) result = arg3;
+    return result;
+}
+
 int a1 = 5;
 int a2 = 15;
 int a3 = 45;
 int a4 = 51;
 int a5 = 59;
-int a6 = 54;
+int a6 = 574;
 int a7 = 25;
 int a8 = 55;
 int a9 = 95;
-int max = a1;
-if (a2>a1) max=a2;
-if (a3>a2) max = a3;
-if (a4>a3) max = a4;
-if (a5>a4) max = a5;
-if (a6>a5) max = a6;
-if (a7>a6) max = a7;
-if (a8>a7) max = a8;
-if (a9>a8) max = a9;
+
+int max1 = Max(a1, a2, a3);
+int max2 = Max(a4, a5, a6);
+int max3 = Max(a7, a8, a9);
+int max = Max(max1, max2, max3);
+
+
 Console.WriteLine(max);
